@@ -58,8 +58,8 @@ public class ProductEntity implements Serializable {
     private String sku;
 
     /* Đặc điểm nổi bật */
-    @Column(name = "traint")
-    private String traint;
+    @Column(name = "trait")
+    private String trait;
 
     @Column(name = "release_date")
     private Date releaseDate;

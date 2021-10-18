@@ -1,7 +1,6 @@
 package com.tn.totnghiep.repository.bill;
 
 import com.tn.totnghiep.entity.BillEntity;
-import com.tn.totnghiep.service.productcustomer.ProductCustomer;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
